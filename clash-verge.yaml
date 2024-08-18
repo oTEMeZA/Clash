@@ -104,7 +104,7 @@ proxies: []
 proxy-providers:
   Subscribe:
     path: ./proxy_providers/tmp.yaml
-    url: https://gist.githubusercontent.com/oTEMeZA/68ba1363b5a9971056e91ed7b33aea9a/raw/Clash
+    url: #节点订阅链接
     type: http
     interval: 3600
     health-check:
